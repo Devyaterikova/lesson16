@@ -1,0 +1,12 @@
+{
+    "name": "geo",
+    "authors": [
+        {
+            "name": "Elena Devyaterikova",
+            "email": "A1978D@yandex.ru"
+        }
+    ],
+    "require": {
+        "yandex/geo": "^1.1"
+    }
+}
